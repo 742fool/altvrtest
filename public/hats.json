@@ -2,6 +2,25 @@
     "none": {
         "displayName": "None"
     },
+		"lolipop-red": {
+        "displayName": "Sweet Lollipop",
+        "resourceName": "lolipop-red.glb",
+        "scale": {
+            "x": 0.0003,
+            "y": 0.0003,
+            "z": 0.0003
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 90
+        },
+        "position": {
+            "x": -0.1,
+            "y": -0.02,
+            "z": 0.08
+        }
+    },
 		"mememe-pulsegun": {
         "displayName": "Pulse Gun",
         "resourceName": "mememegun.glb",
@@ -37,63 +56,6 @@
         "position": {
             "x": -0.74,
             "y": -0.015,
-            "z": 0.08
-        }
-    },
-		"lolipop-red": {
-        "displayName": "Lolipop1",
-        "resourceName": "lolipop-red.glb",
-        "scale": {
-            "x": 0.0003,
-            "y": 0.0003,
-            "z": 0.0003
-        },
-        "rotation": {
-            "x": 0,
-            "y": 0,
-            "z": 90
-        },
-        "position": {
-            "x": -0.1,
-            "y": -0.02,
-            "z": 0.08
-        }
-    },
-		"lolipop-red2": {
-        "displayName": "Lolipop2",
-        "resourceName": "lolipop-red.glb",
-        "scale": {
-            "x": 0.0003,
-            "y": 0.0003,
-            "z": 0.0003
-        },
-        "rotation": {
-            "x": 0,
-            "y": 0,
-            "z": 90
-        },
-        "position": {
-            "x": -0.1,
-            "y": -0.04,
-            "z": 0.08
-        }
-    },
-		"lolipop-red3": {
-        "displayName": "Lolipop3",
-        "resourceName": "lolipop-red.glb",
-        "scale": {
-            "x": 0.0003,
-            "y": 0.0003,
-            "z": 0.0003
-        },
-        "rotation": {
-            "x": 0,
-            "y": 0,
-            "z": 90
-        },
-        "position": {
-            "x": -0.1,
-            "y": -0.06,
             "z": 0.08
         }
     }
